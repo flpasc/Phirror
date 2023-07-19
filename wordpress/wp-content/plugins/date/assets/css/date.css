@@ -1,0 +1,9 @@
+.date-content {
+  font-family: 'Coming Soon', cursive ;
+  font-size: 20px;
+  color: white;
+  display: flex !important;
+  flex-direction: row;
+  gap: 5px;
+}
+
